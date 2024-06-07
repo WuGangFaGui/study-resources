@@ -1,5 +1,11 @@
 # Git 入門學習資源
 
+## 教學文章
+
+- [三種版控流程](https://github.com/lf2lf211/WorkFlow/blob/master/README.md)
+  - git flow vs github flow vs gitlab flow
+  - Git 分支使用；GitHub PR 發起、issue tracking
+
 ## 教學影片
 
 - [A brief introduction to Git for beginners | GitHub](https://youtu.be/r8jQ9hVA2qs?si=EYJbx1XOzjsvbqj7)
