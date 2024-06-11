@@ -37,3 +37,6 @@
       - [13:36](https://www.youtube.com/watch?v=FKXRiAiQFiY&t=816s) 建立分支
       - [14:35](https://www.youtube.com/watch?v=FKXRiAiQFiY&t=875s) 發起合併請求 & 合併分支 
     </details>
+
+- [如何正确地提github issue？](https://youtu.be/_2p3WPdlLOg?si=WLuKT57KGMc-X6mE)
+  - GitHub issue 相關知識，bug、features request、close issue 等
